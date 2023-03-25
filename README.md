@@ -15,3 +15,6 @@ CV2 라이브러리를 사용하여 예시로 주어진 영상을 외곽선을 �
 ### (ChatGPT의 코드 결과)  
 ![image](https://user-images.githubusercontent.com/86285421/227720447-f2872417-f344-431e-896d-bf6ba05bc93a.png)  
 
+
+## reference   
+[카툰필터](https://deep-learning-study.tistory.com/173)  
